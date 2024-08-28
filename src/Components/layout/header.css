@@ -1,0 +1,36 @@
+.header-container{
+    padding: 0px 24px 0px 24px;
+    box-shadow: 6px 15px 38px 2px rgb(239, 237, 237);
+}
+
+.header-contents{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header-middle{
+display: flex;
+gap: 20px;
+
+}
+
+.header-right{
+    display: flex;
+    gap: 15px;
+}
+
+.user-container{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.cart-container{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+p{
+    font-weight: 500;
+}
